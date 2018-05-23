@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="Area" />
+
+    <version value="1" />
+
+    <list>
+        <mapping src="com.coolweather.coolweather4.db.Province"/>
+        <mapping src="com.coolweather.coolweather4.db.City"/>
+        <mapping src="com.coolweather.coolweather4.db.County"/>
+    </list>
+
+</litepal>
